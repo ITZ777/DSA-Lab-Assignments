@@ -1,2 +1,2 @@
 # DSA-Lab-Assignments
-UCS540 Assignments
+UCS540 Lab Assignments TIET
